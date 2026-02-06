@@ -2,6 +2,10 @@
 # Dependencies
 # ===============================
 node_modules/
+readme.md
+
+**/readme.md
+
 
 # ===============================
 # Build output
